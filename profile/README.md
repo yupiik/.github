@@ -13,10 +13,10 @@ We love Open Source Software and we are happy to be a part of the OSS community:
 
 We maintaining our own open source projects like:
 
-- [Yupiik Bundlebee](https://github.com/yupiik/bundlebee) - A light Java Kubernetes package manager
-- [Yupiik Batch](https://github.com/yupiik/yupiik-batch) - A batch runtime framework for the cloud
-- [Yupiik UShip](https://github.com/yupiik/uship) - Uship (µship) is a lightweight microservice stack for modern applications
-- [Yupiik Logging](https://github.com/yupiik/yupiik-logging) - Logging Extensions (JUL + GraalVM integration)
-- [Yupiik Tools](https://github.com/yupiik/tools-maven-plugin) - A Apache Maven plugin set of tools for generating documentation and website
+- :honeybee: [Yupiik Bundlebee](https://github.com/yupiik/bundlebee) - A light Java Kubernetes package manager
+- :factory: [Yupiik Batch](https://github.com/yupiik/yupiik-batch) - A batch runtime framework for the cloud
+- :rocket: [Yupiik UShip](https://github.com/yupiik/uship) - Uship (µship) is a lightweight microservice stack for modern applications
+- :fax: [Yupiik Logging](https://github.com/yupiik/yupiik-logging) - Logging Extensions (JUL + GraalVM integration)
+- :wrench: [Yupiik Tools](https://github.com/yupiik/tools-maven-plugin) - A Apache Maven plugin set of tools for generating documentation and website
 
 We also share some Docker images on :whale: [DockerHub](https://hub.docker.com/u/ossyupiik).
