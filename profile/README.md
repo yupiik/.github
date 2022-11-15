@@ -21,7 +21,9 @@ We maintaining our own open source projects like:
 
 :fax: [Yupiik Logging](https://github.com/yupiik/yupiik-logging) - Logging Extensions (JUL + GraalVM integration)
 
-:wrench: [Yupiik Tools](https://github.com/yupiik/tools-maven-plugin) - A Apache Maven plugin set of tools for generating documentation and website
+:wrench: [Yupiik Tools](https://github.com/yupiik/tools-maven-plugin) - An Apache Maven plugin set of tools for generating documentation and website
+
+:anchor: [Yupiik Kubernetes Java Descriptors](https://github.com/yupiik/kubernetes-java-descriptors) - A project providing Kubernetes and Yupiik Bundlebee descriptors/bindings to ease automating its infrastructure as code. 
 
 
 We also share some Docker images on :whale: [DockerHub](https://hub.docker.com/u/ossyupiik).
