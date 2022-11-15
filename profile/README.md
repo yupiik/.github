@@ -23,7 +23,9 @@ We maintaining our own open source projects like:
 
 :wrench: [Yupiik Tools](https://github.com/yupiik/tools-maven-plugin) - An Apache Maven plugin set of tools for generating documentation and website
 
-:anchor: [Yupiik Kubernetes Java Descriptors](https://github.com/yupiik/kubernetes-java-descriptors) - A project providing Kubernetes and Yupiik Bundlebee descriptors/bindings to ease automating its infrastructure as code. 
+:anchor: [Yupiik Kubernetes Java Descriptors](https://github.com/yupiik/kubernetes-java-descriptors) - A project providing Kubernetes and Yupiik Bundlebee descriptors/bindings to ease automating its infrastructure as code.
+
+:guardsman: [Yupiik JAAS Login Modules](https://github.com/yupiik/jaas-login-modules) - Provides Helper JAAS LoginModules to ease integrations with 3rd parties (like Apache TomEE/ActiveMQ).
 
 
 We also share some Docker images on :whale: [DockerHub](https://hub.docker.com/u/ossyupiik).
