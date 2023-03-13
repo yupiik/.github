@@ -15,6 +15,8 @@ We maintaining our own open source projects like:
 
 :honeybee: [Yupiik Bundlebee](https://github.com/yupiik/bundlebee) - A light Java Kubernetes package manager
 
+:volcano: [Yupiik Fusion]((https://github.com/yupiik/fusion) - A very light java framework and graal native
+
 :factory: [Yupiik Batch](https://github.com/yupiik/yupiik-batch) - A batch runtime framework for the cloud
 
 :rocket: [Yupiik UShip](https://github.com/yupiik/uship) - Uship (µship) is a lightweight microservice stack for modern applications
