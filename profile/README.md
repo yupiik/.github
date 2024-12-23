@@ -1,7 +1,7 @@
 ## Yupiik
 World class recognized experts that help you to improve your productivity and your move to the cloud!
 
-![Yupiik Home page](https://media-exp1.licdn.com/dms/image/C4D1BAQE6UqL2DC6ssQ/company-background_10000/0/1618578379408?e=1631984400&v=beta&t=_YMoy6bTZuuqtOC1NdoW2Dhuzg0XOR1HsHNbxvibbjY)
+<img alt="Yupiik Home page" src="https://www.yupiik.io/images/yupiik.png" width="15px"/> [Yupiik Home page](https://yupiik.com/)
 
 ### 💗 In Open Source community we trust!
 
