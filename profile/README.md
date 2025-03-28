@@ -29,5 +29,6 @@ We maintaining our own open source projects like:
 
 :guardsman: [Yupiik JAAS Login Modules](https://github.com/yupiik/jaas-login-modules) - Provides Helper JAAS LoginModules to ease integrations with 3rd parties (like Apache TomEE/ActiveMQ).
 
+:fishing_pole_and_fish: [Yupiik Metrics Scraper](https://github.com/yupiik/metrics-scraper) - Provides a simple tool to collect metrics from Prometheus/Open Metrics sources, in order to format and index them into ElasticSearch.
 
 We also share some Docker images on :whale: [DockerHub](https://hub.docker.com/u/ossyupiik).
