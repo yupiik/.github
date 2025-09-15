@@ -7,7 +7,7 @@ World class recognized experts that help you to improve your productivity and yo
 
 We love Open Source Software and we are happy to be a part of the OSS community:
 
-[Yupiik OSS Community](https://yupiik.github.io/community.html)
+[Yupiik OSS Community](https://yupiik.io)
 
 ### 👩‍💻 Building software and sharing code!
 
